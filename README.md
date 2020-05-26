@@ -1,4 +1,4 @@
-# keras-yolo4-img-video-
+# keras-yolo4-video
 YOLO4 using Keras
 
 ## Introduction
