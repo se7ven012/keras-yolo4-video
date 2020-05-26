@@ -1,7 +1,5 @@
 # keras-yolo4-img-video-
-YOLO4, Keras
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+YOLO4 using Keras
 
 ## Introduction
 
